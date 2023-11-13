@@ -10,8 +10,8 @@ public class Cat extends Animal {
         return true;
     }
 
-  public void showmood(){
-
+  public boolean showmood(){
+        return true;
   }
 
 

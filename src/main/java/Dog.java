@@ -11,7 +11,8 @@ public class Dog extends Animal {
     }
 
 
-    public void showmood() {
+    public boolean showmood() {
+        return true;
 
     }
 }
