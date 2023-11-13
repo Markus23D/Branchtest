@@ -9,4 +9,10 @@ public class Cat extends Animal {
     public boolean eat(String foodtype) {
         return true;
     }
+
+  public void showmood(){
+
+  }
+
+
 }
